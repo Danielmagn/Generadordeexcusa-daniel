@@ -3,3 +3,17 @@
 body{
     background: white;
 }
+
+#contenedor-excusas p {
+  background-color: #fbfcc1f1;
+  padding: 10px 15px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #001866;
+  width: 200px;
+  margin: 0;
+}
+.subrayado {
+  display: inline-block;
+  border-bottom: 2px solid currentColor;
+}
